@@ -98,7 +98,7 @@ class ViewController: UIViewController ,UITableViewDataSource,UITableViewDelegat
             request.timeoutInterval = 10
             request.allHTTPHeaderFields = [
                 "accept": "application/json",
-                "Authorization": "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIwYjBlMDU5OTc4ODliNzdkMmE4NmVjNWRlYzY2NzViYiIsInN1YiI6IjY2NDMxYTg3MGNhYWI0ZDM0MGI4OWY0YyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.GTy-CRsI7azZ03fHPjumYQbFpMDdKlrUtDE5ah_ipPQ"
+                "Authorization": "Bearer c9856d0cb57c3f14bf75bdc6c063b8f3"
             ]
             
             let task = URLSession.shared.dataTask(with: request) { data, response, error in
