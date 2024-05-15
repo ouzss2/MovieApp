@@ -6,8 +6,11 @@ MovieApp is an iOS application that displays a list of trending movies from The 
 Users can view movie details by selecting a movie from the list.
 
 # Screenshots
-![Simulator Screenshot - iPhone 15 Pro - 2024-05-15 at 08 25 16](https://github.com/ouzss2/MovieApp/assets/61743083/93ff43a1-7024-4991-bfbf-b9709c89168e)
-![Simulator Screenshot - iPhone 15 Pro - 2024-05-15 at 08 25 21](https://github.com/ouzss2/MovieApp/assets/61743083/5f734388-6f11-4dde-9134-96ad8ba0eb51)
+<img src="https://github.com/ouzss2/MovieApp/assets/61743083/93ff43a1-7024-4991-bfbf-b9709c89168e" alt="Simulator Screenshot - iPhone 15 Pro - 2024-05-15 at 08 25 16" width="50%">
+
+
+<img src="https://github.com/ouzss2/MovieApp/assets/61743083/5f734388-6f11-4dde-9134-96ad8ba0eb51" alt="Simulator Screenshot - iPhone 15 Pro - 2024-05-15 at 08 25 21" width="50%">
+
 
 
  # Installation
